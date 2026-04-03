@@ -1,0 +1,25 @@
+hour,demand,predicted_demand,alert,decision
+0,810,543,⚠️  HIGH DEMAND,Increase Drivers
+1,479,436,⚠️  HIGH DEMAND,Increase Drivers
+2,175,362,⚠️  HIGH DEMAND,Increase Drivers
+3,108,317,Medium,maintain
+4,44,298,Medium,maintain
+5,145,302,Medium,maintain
+6,285,327,Medium,maintain
+7,738,369,⚠️  HIGH DEMAND,Increase Drivers
+8,608,424,⚠️  HIGH DEMAND,Increase Drivers
+9,713,491,⚠️  HIGH DEMAND,Increase Drivers
+10,644,565,⚠️  HIGH DEMAND,Increase Drivers
+11,498,643,⚠️  HIGH DEMAND,Increase Drivers
+12,804,724,⚠️  HIGH DEMAND,Increase Drivers
+13,747,802,⚠️  HIGH DEMAND,Increase Drivers
+14,982,876,⚠️  HIGH DEMAND,Increase Drivers
+15,727,942,⚠️  HIGH DEMAND,Increase Drivers
+16,727,997,⚠️  HIGH DEMAND,Increase Drivers
+17,1015,1038,⚠️  HIGH DEMAND,Increase Drivers
+18,1071,1062,⚠️  HIGH DEMAND,Increase Drivers
+19,1322,1066,⚠️  HIGH DEMAND,Increase Drivers
+20,1022,1046,⚠️  HIGH DEMAND,Increase Drivers
+21,1059,1000,⚠️  HIGH DEMAND,Increase Drivers
+22,739,925,⚠️  HIGH DEMAND,Increase Drivers
+23,921,816,⚠️  HIGH DEMAND,Increase Drivers

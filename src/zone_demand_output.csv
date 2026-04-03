@@ -1,0 +1,201 @@
+lat_zone,lon_zone,demand,demand_level,alert,decision
+40.55,-74.3,1,LOW,NORMAL,Reduce Drivers
+40.59,-73.93,1,LOW,NORMAL,Reduce Drivers
+40.59,-73.75,1,LOW,NORMAL,Reduce Drivers
+40.61,-74.0,1,LOW,NORMAL,Reduce Drivers
+40.62,-74.02,1,LOW,NORMAL,Reduce Drivers
+40.63,-74.01,1,LOW,NORMAL,Reduce Drivers
+40.63,-73.93,1,LOW,NORMAL,Reduce Drivers
+40.63,-73.78,1,LOW,NORMAL,Reduce Drivers
+40.64,-73.98,1,LOW,NORMAL,Reduce Drivers
+40.64,-73.79,67,MEDIUM,NORMAL,Maintain
+40.64,-73.78,87,MEDIUM,NORMAL,Maintain
+40.65,-74.0,1,LOW,NORMAL,Reduce Drivers
+40.65,-73.97,1,LOW,NORMAL,Reduce Drivers
+40.65,-73.81,3,LOW,NORMAL,Reduce Drivers
+40.65,-73.8,4,LOW,NORMAL,Reduce Drivers
+40.65,-73.79,53,MEDIUM,NORMAL,Maintain
+40.65,-73.78,81,MEDIUM,NORMAL,Maintain
+40.66,-73.99,1,LOW,NORMAL,Reduce Drivers
+40.66,-73.96,2,LOW,NORMAL,Reduce Drivers
+40.66,-73.94,1,LOW,NORMAL,Reduce Drivers
+40.66,-73.8,1,LOW,NORMAL,Reduce Drivers
+40.66,-73.79,4,LOW,NORMAL,Reduce Drivers
+40.67,-74.0,1,LOW,NORMAL,Reduce Drivers
+40.67,-73.99,9,LOW,NORMAL,Reduce Drivers
+40.67,-73.98,2,LOW,NORMAL,Reduce Drivers
+40.67,-73.96,4,LOW,NORMAL,Reduce Drivers
+40.67,-73.8,1,LOW,NORMAL,Reduce Drivers
+40.68,-74.01,1,LOW,NORMAL,Reduce Drivers
+40.68,-74.0,14,LOW,NORMAL,Reduce Drivers
+40.68,-73.99,6,LOW,NORMAL,Reduce Drivers
+40.68,-73.98,33,MEDIUM,NORMAL,Maintain
+40.68,-73.97,11,LOW,NORMAL,Reduce Drivers
+40.68,-73.96,2,LOW,NORMAL,Reduce Drivers
+40.68,-73.95,3,LOW,NORMAL,Reduce Drivers
+40.68,-73.94,1,LOW,NORMAL,Reduce Drivers
+40.68,-73.93,1,LOW,NORMAL,Reduce Drivers
+40.68,-73.86,1,LOW,NORMAL,Reduce Drivers
+40.69,-74.0,5,LOW,NORMAL,Reduce Drivers
+40.69,-73.99,22,MEDIUM,NORMAL,Maintain
+40.69,-73.98,19,LOW,NORMAL,Reduce Drivers
+40.69,-73.97,7,LOW,NORMAL,Reduce Drivers
+40.69,-73.96,4,LOW,NORMAL,Reduce Drivers
+40.69,-73.95,1,LOW,NORMAL,Reduce Drivers
+40.69,-73.94,1,LOW,NORMAL,Reduce Drivers
+40.69,-73.93,1,LOW,NORMAL,Reduce Drivers
+40.69,-73.92,1,LOW,NORMAL,Reduce Drivers
+40.69,-73.91,1,LOW,NORMAL,Reduce Drivers
+40.69,-73.83,1,LOW,NORMAL,Reduce Drivers
+40.69,-73.81,2,LOW,NORMAL,Reduce Drivers
+40.7,-74.02,3,LOW,NORMAL,Reduce Drivers
+40.7,-74.01,66,MEDIUM,NORMAL,Maintain
+40.7,-74.0,1,LOW,NORMAL,Reduce Drivers
+40.7,-73.99,15,LOW,NORMAL,Reduce Drivers
+40.7,-73.98,4,LOW,NORMAL,Reduce Drivers
+40.7,-73.95,1,LOW,NORMAL,Reduce Drivers
+40.7,-73.94,5,LOW,NORMAL,Reduce Drivers
+40.7,-73.93,5,LOW,NORMAL,Reduce Drivers
+40.7,-73.92,2,LOW,NORMAL,Reduce Drivers
+40.7,-73.91,1,LOW,NORMAL,Reduce Drivers
+40.7,-73.83,1,LOW,NORMAL,Reduce Drivers
+40.7,-73.81,1,LOW,NORMAL,Reduce Drivers
+40.71,-74.02,78,MEDIUM,NORMAL,Maintain
+40.71,-74.01,272,HIGH,⚠️ SURGE,Increase Drivers
+40.71,-74.0,67,MEDIUM,NORMAL,Maintain
+40.71,-73.99,14,LOW,NORMAL,Reduce Drivers
+40.71,-73.98,5,LOW,NORMAL,Reduce Drivers
+40.71,-73.97,3,LOW,NORMAL,Reduce Drivers
+40.71,-73.96,38,MEDIUM,NORMAL,Maintain
+40.71,-73.95,14,LOW,NORMAL,Reduce Drivers
+40.71,-73.94,7,LOW,NORMAL,Reduce Drivers
+40.71,-73.93,3,LOW,NORMAL,Reduce Drivers
+40.71,-73.92,1,LOW,NORMAL,Reduce Drivers
+40.71,-73.82,1,LOW,NORMAL,Reduce Drivers
+40.72,-74.02,24,MEDIUM,NORMAL,Maintain
+40.72,-74.01,236,HIGH,⚠️ SURGE,Increase Drivers
+40.72,-74.0,339,HIGH,⚠️ SURGE,Increase Drivers
+40.72,-73.99,374,HIGH,⚠️ SURGE,Increase Drivers
+40.72,-73.98,78,MEDIUM,NORMAL,Maintain
+40.72,-73.96,30,MEDIUM,NORMAL,Maintain
+40.72,-73.95,15,LOW,NORMAL,Reduce Drivers
+40.72,-73.94,2,LOW,NORMAL,Reduce Drivers
+40.72,-73.9,1,LOW,NORMAL,Reduce Drivers
+40.72,-73.84,1,LOW,NORMAL,Reduce Drivers
+40.72,-73.83,1,LOW,NORMAL,Reduce Drivers
+40.73,-74.01,171,HIGH,⚠️ SURGE,Increase Drivers
+40.73,-74.0,538,HIGH,⚠️ SURGE,Increase Drivers
+40.73,-73.99,580,HIGH,⚠️ SURGE,Increase Drivers
+40.73,-73.98,278,HIGH,⚠️ SURGE,Increase Drivers
+40.73,-73.97,9,LOW,NORMAL,Reduce Drivers
+40.73,-73.96,1,LOW,NORMAL,Reduce Drivers
+40.73,-73.95,3,LOW,NORMAL,Reduce Drivers
+40.73,-73.91,1,LOW,NORMAL,Reduce Drivers
+40.73,-73.86,2,LOW,NORMAL,Reduce Drivers
+40.73,-73.84,1,LOW,NORMAL,Reduce Drivers
+40.73,-73.83,1,LOW,NORMAL,Reduce Drivers
+40.74,-74.04,2,LOW,NORMAL,Reduce Drivers
+40.74,-74.01,201,HIGH,⚠️ SURGE,Increase Drivers
+40.74,-74.0,538,HIGH,⚠️ SURGE,Increase Drivers
+40.74,-73.99,709,HIGH,⚠️ SURGE,Increase Drivers
+40.74,-73.98,501,HIGH,⚠️ SURGE,Increase Drivers
+40.74,-73.97,67,MEDIUM,NORMAL,Maintain
+40.74,-73.96,2,LOW,NORMAL,Reduce Drivers
+40.74,-73.95,9,LOW,NORMAL,Reduce Drivers
+40.74,-73.94,2,LOW,NORMAL,Reduce Drivers
+40.74,-73.93,9,LOW,NORMAL,Reduce Drivers
+40.74,-73.92,17,LOW,NORMAL,Reduce Drivers
+40.74,-73.9,3,LOW,NORMAL,Reduce Drivers
+40.74,-73.89,1,LOW,NORMAL,Reduce Drivers
+40.74,-73.88,1,LOW,NORMAL,Reduce Drivers
+40.75,-74.01,54,MEDIUM,NORMAL,Maintain
+40.75,-74.0,253,HIGH,⚠️ SURGE,Increase Drivers
+40.75,-73.99,921,HIGH,⚠️ SURGE,Increase Drivers
+40.75,-73.98,753,HIGH,⚠️ SURGE,Increase Drivers
+40.75,-73.97,380,HIGH,⚠️ SURGE,Increase Drivers
+40.75,-73.96,6,LOW,NORMAL,Reduce Drivers
+40.75,-73.95,1,LOW,NORMAL,Reduce Drivers
+40.75,-73.94,22,MEDIUM,NORMAL,Maintain
+40.75,-73.93,5,LOW,NORMAL,Reduce Drivers
+40.75,-73.92,3,LOW,NORMAL,Reduce Drivers
+40.75,-73.91,5,LOW,NORMAL,Reduce Drivers
+40.75,-73.9,3,LOW,NORMAL,Reduce Drivers
+40.75,-73.89,3,LOW,NORMAL,Reduce Drivers
+40.75,-73.87,1,LOW,NORMAL,Reduce Drivers
+40.76,-74.0,169,HIGH,⚠️ SURGE,Increase Drivers
+40.76,-73.99,755,HIGH,⚠️ SURGE,Increase Drivers
+40.76,-73.98,957,HIGH,⚠️ SURGE,Increase Drivers
+40.76,-73.97,1016,HIGH,⚠️ SURGE,Increase Drivers
+40.76,-73.96,293,HIGH,⚠️ SURGE,Increase Drivers
+40.76,-73.95,23,MEDIUM,NORMAL,Maintain
+40.76,-73.94,9,LOW,NORMAL,Reduce Drivers
+40.76,-73.93,10,LOW,NORMAL,Reduce Drivers
+40.76,-73.92,12,LOW,NORMAL,Reduce Drivers
+40.76,-73.91,2,LOW,NORMAL,Reduce Drivers
+40.76,-73.9,1,LOW,NORMAL,Reduce Drivers
+40.76,-73.89,2,LOW,NORMAL,Reduce Drivers
+40.76,-73.88,1,LOW,NORMAL,Reduce Drivers
+40.76,-73.87,2,LOW,NORMAL,Reduce Drivers
+40.76,-73.83,2,LOW,NORMAL,Reduce Drivers
+40.76,-73.82,1,LOW,NORMAL,Reduce Drivers
+40.77,-74.14,1,LOW,NORMAL,Reduce Drivers
+40.77,-74.02,1,LOW,NORMAL,Reduce Drivers
+40.77,-74.0,16,LOW,NORMAL,Reduce Drivers
+40.77,-73.99,219,HIGH,⚠️ SURGE,Increase Drivers
+40.77,-73.98,485,HIGH,⚠️ SURGE,Increase Drivers
+40.77,-73.97,197,HIGH,⚠️ SURGE,Increase Drivers
+40.77,-73.96,550,HIGH,⚠️ SURGE,Increase Drivers
+40.77,-73.95,286,HIGH,⚠️ SURGE,Increase Drivers
+40.77,-73.94,3,LOW,NORMAL,Reduce Drivers
+40.77,-73.93,13,LOW,NORMAL,Reduce Drivers
+40.77,-73.92,9,LOW,NORMAL,Reduce Drivers
+40.77,-73.91,9,LOW,NORMAL,Reduce Drivers
+40.77,-73.9,3,LOW,NORMAL,Reduce Drivers
+40.77,-73.89,13,LOW,NORMAL,Reduce Drivers
+40.77,-73.88,13,LOW,NORMAL,Reduce Drivers
+40.77,-73.87,207,HIGH,⚠️ SURGE,Increase Drivers
+40.77,-73.86,83,MEDIUM,NORMAL,Maintain
+40.78,-73.99,52,MEDIUM,NORMAL,Maintain
+40.78,-73.98,419,HIGH,⚠️ SURGE,Increase Drivers
+40.78,-73.97,85,MEDIUM,NORMAL,Maintain
+40.78,-73.96,453,HIGH,⚠️ SURGE,Increase Drivers
+40.78,-73.95,422,HIGH,⚠️ SURGE,Increase Drivers
+40.78,-73.94,29,MEDIUM,NORMAL,Maintain
+40.78,-73.92,2,LOW,NORMAL,Reduce Drivers
+40.78,-73.91,4,LOW,NORMAL,Reduce Drivers
+40.79,-74.02,1,LOW,NORMAL,Reduce Drivers
+40.79,-73.98,161,HIGH,⚠️ SURGE,Increase Drivers
+40.79,-73.97,272,HIGH,⚠️ SURGE,Increase Drivers
+40.79,-73.96,42,MEDIUM,NORMAL,Maintain
+40.79,-73.95,80,MEDIUM,NORMAL,Maintain
+40.79,-73.94,26,MEDIUM,NORMAL,Maintain
+40.8,-73.97,146,HIGH,⚠️ SURGE,Increase Drivers
+40.8,-73.96,67,MEDIUM,NORMAL,Maintain
+40.8,-73.95,26,MEDIUM,NORMAL,Maintain
+40.8,-73.94,35,MEDIUM,NORMAL,Maintain
+40.8,-73.93,7,LOW,NORMAL,Reduce Drivers
+40.81,-73.97,9,LOW,NORMAL,Reduce Drivers
+40.81,-73.96,37,MEDIUM,NORMAL,Maintain
+40.81,-73.95,23,MEDIUM,NORMAL,Maintain
+40.81,-73.94,14,LOW,NORMAL,Reduce Drivers
+40.82,-73.96,12,LOW,NORMAL,Reduce Drivers
+40.82,-73.95,19,LOW,NORMAL,Reduce Drivers
+40.82,-73.94,12,LOW,NORMAL,Reduce Drivers
+40.82,-73.92,1,LOW,NORMAL,Reduce Drivers
+40.82,-73.86,1,LOW,NORMAL,Reduce Drivers
+40.83,-73.95,10,LOW,NORMAL,Reduce Drivers
+40.83,-73.94,2,LOW,NORMAL,Reduce Drivers
+40.83,-73.92,2,LOW,NORMAL,Reduce Drivers
+40.84,-73.94,9,LOW,NORMAL,Reduce Drivers
+40.84,-73.93,1,LOW,NORMAL,Reduce Drivers
+40.84,-73.92,1,LOW,NORMAL,Reduce Drivers
+40.85,-73.94,6,LOW,NORMAL,Reduce Drivers
+40.85,-73.9,2,LOW,NORMAL,Reduce Drivers
+40.86,-73.93,1,LOW,NORMAL,Reduce Drivers
+40.86,-73.92,1,LOW,NORMAL,Reduce Drivers
+40.87,-73.91,1,LOW,NORMAL,Reduce Drivers
+40.88,-73.9,1,LOW,NORMAL,Reduce Drivers
+40.89,-73.91,1,LOW,NORMAL,Reduce Drivers
+40.91,-73.91,1,LOW,NORMAL,Reduce Drivers
+40.93,-74.1,1,LOW,NORMAL,Reduce Drivers
+40.98,-73.67,1,LOW,NORMAL,Reduce Drivers
